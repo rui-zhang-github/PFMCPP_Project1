@@ -52,85 +52,94 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
+//  Noun:       car
+//  action 1:   the car moves forward
+car.moveForward();
+//  action 2:   the car moves backward
+car.moveBackward();
+//  action 3:   the car plays radio
+car.playRadio();
 
-//  action 2:
-
-//  action 3:
-
-//  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  2) 
+//  Noun:       kid
+//  action 1:   the kid smiles
+kid.smile();
+//  action 2:   the kid cries
+kid.cry();
+//  action 3:   the kid sleeps
+kid.sleep();
 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       cat
+//  action 1:   the cat purr
+cat.purr();
+//  action 2:   the cat scratches
+cat.scratch();
+//  action 3:   the cat jumps
+cat.jump();
 
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       dog
+//  action 1:   the dog barks
+dog.bark();
+//  action 2:   the dog does tricks
+dog.doTricks();
+//  action 3:   the dog guards houses
+dog.guardHouses();
 
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       cursor
+//  action 1:   the cursor blinks
+cursor.blink();
+//  action 2:   the cursor moves to the left
+cursor.moveToTheLeft();
+//  action 3:   the cursor moves to the right
+cursor.moveToTheRight();
 
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       bird
+//  action 1:   the bird flies 
+bird.fly();
+//  action 2:   the bird sings
+bird.sing();
+//  action 3:   the bird nests
+bird.nest();
 
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       black hole
+//  action 1:   the black hole absorbs mass
+blackHole.absorbMass();
+//  action 2:   the black hole curves spacetime
+blackHole.curveSpacetime();
+//  action 3:   the black hole shrinks
+blackHole.shrink();
 
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       smart watch
+//  action 1:   the smart watch displays time
+smartWatch.displayTime();
+//  action 2:   the smart watch counts steps
+smartWatch.countSteps();
+//  action 3:   the smart watch detects heart rate
+smartWatch.detectHeartRate();
 
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
+//  Noun:       Gmail user
+//  action 1:   the Gmail user logs in
+gmailUser.logIn();
+//  action 2:   the Gmail user checks emails
+gmailUser.checkEmails();
+//  action 3:   the Gmail user logs out
+gmailUser.logOut();
 
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun:       artificial satellite
+//  action 1:   the artificial satellite changes orbit
+artificialSatellite.changeOrbit();
+//  action 2:   the artificial satellite sends signals
+artificialSatellite.sendSignals();
+//  action 3:   the artificial satellite returns to Earth
+artificialSatellite.returnToEarth();
 
 
 #endif
