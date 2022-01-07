@@ -97,13 +97,13 @@ cursor.moveToTheLeft();
 cursor.moveToTheRight();
 
 //  6)
-//  Noun:       bird
-//  action 1:   the bird flies 
-bird.fly();
-//  action 2:   the bird sings
-bird.sing();
-//  action 3:   the bird nests
-bird.nest();
+//  Noun:       Spider Man
+//  action 1:   Spider Man climbs walls 
+spiderMan.climbWalls();
+//  action 2:   Spider Man shoots webs 
+spiderMan.shootWebs();
+//  action 3:   Spider Man senses danger
+spiderMan.senseDanger();
 
 //  7)
 //  Noun:       black hole
